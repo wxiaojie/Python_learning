@@ -1,7 +1,9 @@
 Python learning
 ========
 
-Here are the notes of self-learning Python.
+Here are the notes of self-learning Python. 
+
+（基于Windows系统）
 
 起因是完成模式识别作业，用RNN模型完成image caption；于是乎，有了后面这些事儿
 
