@@ -33,7 +33,7 @@ pip install --upgrade tensorflow
 
 2. Jupyter notebook （.ipynb文件）
 
-进入notebook： CMD输入 ipython.exe notebook
+进入notebook网页界面： CMD输入 jupyter notebook
 
 退出notebook：网页上 logout， CMD键入 Ctrl + C
 
