@@ -18,7 +18,7 @@ conda update conda   更新 conda
 
 conda list 查看哪些程序已经安装了
 
-pip install --update matplotlib 安装新程序
+pip install --upgrade matplotlib 安装新程序
 
 注意：在安装TensorFlow的过程中，出现于Python版本不兼容的情况，尽管本地安装的是Python3.5；如下处理可解决
 
