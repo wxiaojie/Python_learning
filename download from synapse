@@ -11,3 +11,4 @@ import synapseutils
 syn = synapseclient.Synapse()
 syn.login('synapse_username','password')
 files = synapseutils.syncFromSynapse(syn, 'prject_name(eg.syn3105940)')
+#the files are stored in the current working direction(filename: .synapseCache)
