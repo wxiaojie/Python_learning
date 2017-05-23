@@ -35,6 +35,8 @@ pip install --upgrade tensorflow
 
 进入notebook网页界面： CMD输入 jupyter notebook
 
+  jupyter notebook快捷键参看：http://opus.konghy.cn/ipynb/jupyter-notebook-keyboard-shortcut.html
+
 退出notebook：网页上 logout， CMD键入 Ctrl + C
 
 
